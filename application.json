@@ -1,15 +1,45 @@
 {
   "pages": [
     {
-      "id": "Page1",
+      "id": "checklist",
+      "isDefault": false
+    },
+    {
+      "id": "Tracker for counselor",
+      "isDefault": false
+    },
+    {
+      "id": "Dashboard",
       "isDefault": true
+    },
+    {
+      "id": "contact",
+      "isDefault": false
+    },
+    {
+      "id": "survey",
+      "isDefault": false
+    },
+    {
+      "id": "events",
+      "isDefault": false
     }
   ],
   "viewMode": false,
   "appIsExample": false,
   "unreadCommentThreads": 0,
   "color": "#D9E7FF",
-  "unpublishedCustomJSLibs": [],
+  "unpublishedAppLayout": {
+    "type": "DESKTOP"
+  },
+  "publishedAppLayout": {
+    "type": "DESKTOP"
+  },
+  "unpublishedCustomJSLibs": [
+    {
+      "uidString": "xmlParser_https://cdnjs.cloudflare.com/ajax/libs/fast-xml-parser/3.17.5/parser.min.js"
+    }
+  ],
   "publishedCustomJSLibs": [],
   "evaluationVersion": 2,
   "applicationVersion": 2,

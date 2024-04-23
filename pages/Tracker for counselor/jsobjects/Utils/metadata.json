@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "Utils",
+    "pageId": "Tracker for counselor",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "Tracker for counselor_Utils",
+  "deleted": false,
+  "gitSyncId": "66230ce9f8a1c430d987074e_6626fe8c2681d43b0df1e672"
+}
