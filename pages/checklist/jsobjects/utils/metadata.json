@@ -1,0 +1,28 @@
+{
+  "unpublishedCollection": {
+    "name": "utils",
+    "pageId": "checklist",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "selectedTask",
+        "value": "undefined"
+      },
+      {
+        "name": "showCompleted",
+        "value": "true"
+      },
+      {
+        "name": "listState",
+        "value": "'today'"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "checklist_utils",
+  "deleted": false,
+  "gitSyncId": "66230ce9f8a1c430d987074e_6627002f59958c61679aa2fa"
+}

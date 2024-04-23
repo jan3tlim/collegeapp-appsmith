@@ -1,0 +1,63 @@
+{
+    "needsErrorInfo": false,
+    "mobileBottomRow": 19,
+    "widgetName": "NumberSlider1",
+    "defaultValue": "10",
+    "iconSVG": "https://appcdn.appsmith.com/static/media/icon.f1c0a9f4c08502584d745ce2fb2fbb23.svg",
+    "displayName": "Number Slider",
+    "tooltipAlwaysOn": false,
+    "labelText": "How would you rate your application experience (0-10)?",
+    "topRow": 9,
+    "searchTags": ["range"],
+    "bottomRow": 17,
+    "parentRowSpace": 10,
+    "labelWidth": "38",
+    "type": "NUMBER_SLIDER_WIDGET",
+    "hideCard": false,
+    "mobileRightColumn": 42,
+    "animateLoading": true,
+    "min": "0",
+    "parentColumnSpace": 7.8154296875,
+    "dynamicTriggerPathList": [],
+    "leftColumn": 2,
+    "dynamicBindingPathList": [{"key": "accentColor"}],
+    "shouldTruncate": false,
+    "labelPosition": "Top",
+    "isDisabled": false,
+    "key": "jg0515gcpp",
+    "labelTextSize": "0.875rem",
+    "isDeprecated": false,
+    "rightColumn": 63,
+    "thumbnailSVG": "https://appcdn.appsmith.com/static/media/thumbnail.d76c55a5d0e4f7c784cd2fe41784472f.svg",
+    "max": "10\n",
+    "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+    "widgetId": "qx8qfvr92t",
+    "isVisible": true,
+    "marks": [
+        {
+            "label": "25%",
+            "value": 25
+        },
+        {
+            "label": "50%",
+            "value": 50
+        },
+        {
+            "label": "75%",
+            "value": 75
+        }
+    ],
+    "sliderSize": "m",
+    "version": 1,
+    "shouldScroll": false,
+    "parentId": "pr0kbcmhce",
+    "tags": ["Sliders"],
+    "isLoading": false,
+    "labelAlignment": "left",
+    "renderMode": "CANVAS",
+    "mobileTopRow": 11,
+    "responsiveBehavior": "fill",
+    "mobileLeftColumn": 2,
+    "step": 1,
+    "showMarksLabel": true
+}
