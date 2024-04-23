@@ -49,7 +49,7 @@
             "isDisabled": false
         },
         "groupButton1": {
-            "onClick": "{{navigateTo('Tasks2', {}, 'SAME_WINDOW');}}",
+            "onClick": "{{navigateTo('checklist', {}, 'SAME_WINDOW');}}",
             "buttonType": "SIMPLE",
             "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
             "widgetId": "",
@@ -69,6 +69,7 @@
             "isDisabled": false
         },
         "groupButton2": {
+            "onClick": "{{navigateTo('contact', {}, 'SAME_WINDOW');}}",
             "buttonType": "SIMPLE",
             "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
             "widgetId": "",
@@ -95,7 +96,8 @@
     "dynamicTriggerPathList": [
         {"key": "groupButtons.groupButton1.onClick"},
         {"key": "groupButtons.groupButton3.menuItems.menuItem1.onClick"},
-        {"key": "groupButtons.groupButton3.menuItems.menuItemcnrrp6lzpg.onClick"}
+        {"key": "groupButtons.groupButton3.menuItems.menuItemcnrrp6lzpg.onClick"},
+        {"key": "groupButtons.groupButton2.onClick"}
     ],
     "leftColumn": 20,
     "dynamicBindingPathList": [

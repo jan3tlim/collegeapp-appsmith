@@ -11,8 +11,8 @@
         "click",
         "submit"
     ],
-    "topRow": 109,
-    "bottomRow": 113,
+    "topRow": 61,
+    "bottomRow": 65,
     "parentRowSpace": 10,
     "type": "ICON_BUTTON_WIDGET",
     "hideCard": false,
@@ -20,7 +20,7 @@
     "animateLoading": true,
     "parentColumnSpace": 13.701171875,
     "dynamicTriggerPathList": [{"key": "onClick"}],
-    "leftColumn": 13,
+    "leftColumn": 12,
     "dynamicBindingPathList": [
         {"key": "buttonColor"},
         {"key": "borderRadius"}
@@ -28,7 +28,7 @@
     "isDisabled": false,
     "key": "zwh0k0o8oa",
     "isDeprecated": false,
-    "rightColumn": 17,
+    "rightColumn": 16,
     "thumbnailSVG": "https://appcdn.appsmith.com/static/media/thumbnail.b02b764a52db45d332efa723178a50a4.svg",
     "iconName": "plus",
     "widgetId": "9tdqhxowdw",
