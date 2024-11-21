@@ -1,43 +1,53 @@
 {
-    "boxShadow": "none",
-    "mobileBottomRow": 17,
-    "widgetName": "icn_editTodayTask",
-    "onClick": "{{showModal('mdl_editTask');\nutils.setSelectedTask(lst_todayTasks.triggeredItem);}}",
-    "buttonColor": "#a1a1aa",
-    "displayName": "Icon button",
-    "iconSVG": "https://appcdn.appsmith.com/static/media/icon.b08054586989b185a0801e9a34f8ad49.svg",
-    "searchTags": [
-        "click",
-        "submit"
-    ],
-    "topRow": 1,
-    "bottomRow": 5,
-    "parentRowSpace": 10,
-    "type": "ICON_BUTTON_WIDGET",
-    "hideCard": false,
-    "mobileRightColumn": 29,
-    "animateLoading": true,
-    "parentColumnSpace": 17.3447265625,
-    "dynamicTriggerPathList": [{"key": "onClick"}],
-    "leftColumn": 57,
-    "dynamicBindingPathList": [{"key": "borderRadius"}],
-    "isDisabled": false,
-    "key": "9xu7j2zb10",
-    "isDeprecated": false,
-    "rightColumn": 60,
-    "iconName": "edit",
-    "dynamicHeight": "FIXED",
-    "widgetId": "oducff2mnw",
-    "minWidth": 50,
-    "isVisible": true,
-    "version": 1,
-    "parentId": "b1p8njleih",
-    "tags": ["Buttons"],
-    "renderMode": "CANVAS",
-    "isLoading": false,
-    "mobileTopRow": 13,
-    "responsiveBehavior": "hug",
-    "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-    "mobileLeftColumn": 25,
-    "buttonVariant": "TERTIARY"
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 5,
+  "boxShadow": "none",
+  "buttonColor": "#a1a1aa",
+  "buttonVariant": "TERTIARY",
+  "displayName": "Icon button",
+  "dynamicBindingPathList": [
+    {
+      "key": "borderRadius"
+    }
+  ],
+  "dynamicHeight": "FIXED",
+  "dynamicTriggerPathList": [
+    {
+      "key": "onClick"
+    }
+  ],
+  "hideCard": false,
+  "iconName": "edit",
+  "iconSVG": "https://appcdn.appsmith.com/static/media/icon.b08054586989b185a0801e9a34f8ad49.svg",
+  "isDeprecated": false,
+  "isDisabled": false,
+  "isLoading": false,
+  "isVisible": true,
+  "key": "9xu7j2zb10",
+  "leftColumn": 57,
+  "minWidth": 50,
+  "mobileBottomRow": 17,
+  "mobileLeftColumn": 25,
+  "mobileRightColumn": 29,
+  "mobileTopRow": 13,
+  "onClick": "{{showModal('mdl_editTask');\nutils.setSelectedTask(lst_todayTasks.triggeredItem);}}",
+  "parentColumnSpace": 17.3447265625,
+  "parentId": "b1p8njleih",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "responsiveBehavior": "hug",
+  "rightColumn": 60,
+  "searchTags": [
+    "click",
+    "submit"
+  ],
+  "tags": [
+    "Buttons"
+  ],
+  "topRow": 1,
+  "type": "ICON_BUTTON_WIDGET",
+  "version": 1,
+  "widgetId": "oducff2mnw",
+  "widgetName": "icn_editTodayTask"
 }
